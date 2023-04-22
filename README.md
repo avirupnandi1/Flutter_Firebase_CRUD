@@ -6,7 +6,9 @@ A sample Flutter application that demonstrates basic CRUD (Create, Read, Update,
 
 ## Description
 
-This Flutter application demonstrates how to perform basic CRUD operations on Firebase Firestore, a NoSQL document database. Users can add new documents, view existing documents, update documents, and delete documents. The application uses the [cloud_firestore](https://pub.dev/packages/cloud_firestore) package to interact with Firestore and the [provider](https://pub.dev/packages/provider) package to manage state.
+Flutter Firebase CRUD is a simple Flutter application that demonstrates how to perform CRUD operations (Create, Read, Update, Delete) using Firebase Cloud Firestore. The application allows users to add, edit, delete and view records of a particular entity, such as a list of products, users, or customers. The application uses Firebase Cloud Firestore to store data in the cloud and retrieve it in real-time. The user interface is simple and easy to use, with intuitive icons for each operation. The application demonstrates how to use Firebase Authentication to authenticate users and secure data access. The project is a great starting point for developers who want to learn how to use Firebase with Flutter and build scalable cloud-powered applications. Overall, Flutter Firebase CRUD is a great project for learning the basics of Firebase Cloud Firestore and CRUD operations in Flutter.
+
+The application uses the [cloud_firestore](https://pub.dev/packages/cloud_firestore) package to interact with Firestore and the [provider](https://pub.dev/packages/provider) package to manage state.
 
 ## Screenshots
 
@@ -34,13 +36,10 @@ Include screenshots of your app in action. For example:
 
 If you would like to contribute to this project, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/avirupnandi1/Flutter_Firebase_CRUD/blob/master/LICENSE) file for more details.
 
 ## Contact
 
-For any questions or feedback, please reach out to me at [email@example.com](mailto:email@example.com).
+For any questions or feedback, please reach out to me at [avirup.nandi651@gmail.com](mailto:avirup.nandi651@gmail.com).
 
 ## Acknowledgments
 
