@@ -12,7 +12,7 @@ This Flutter application demonstrates how to perform basic CRUD operations on Fi
 
 Include screenshots of your app in action. For example:
 
-<img src="https://flutterawesome.com/content/images/2022/02/Code-2022-22-10-08.jpg" width="300">
+<img src=""C:\Users\91837\Desktop\Screenshot_1682179893.png"" width="300">
 
 ## Installation
 
