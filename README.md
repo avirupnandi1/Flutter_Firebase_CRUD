@@ -12,7 +12,7 @@ This Flutter application demonstrates how to perform basic CRUD operations on Fi
 
 Include screenshots of your app in action. For example:
 
-<img src=""C:\Users\91837\Desktop\Screenshot_1682179893.png"" width="300">
+<img src="https://github.com/Justin-roy/Firebase-Crud-Operation/blob/master/crud%20screenshots/Read.jpg?raw=true" width="300">
 
 ## Installation
 
